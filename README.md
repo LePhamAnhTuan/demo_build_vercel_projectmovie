@@ -15,3 +15,5 @@ redux
 ant design
 tailwind
 sass
+
+lotiie-npm cài hình nền động pages 404
